@@ -1,0 +1,36 @@
+
+.hmr-inc {
+  color: red;
+}
+.pug {
+  color: magenta;
+}.pug-less[data-v-4ea13465] {
+  color: green;
+}
+.pug-stylus {
+  color: #ffa500;
+}
+
+._blue-color_1s4zt_2 {
+  color: blue;
+}
+._orange-color_1iw5l_1 {
+  color: orange;
+}
+img[data-v-7ad4e7cc] {
+  width: 30px;
+}
+.relative-style-url[data-v-7ad4e7cc] {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-image: url('/assets/asset.b9f46fb3.png');
+  background-size: 30px;
+}
+.src-imports-style[data-v-2c227604] {
+  color: tan;
+}
+
+div[data-v-7d107005-s] {
+  color: red;
+}
