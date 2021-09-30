@@ -1,6 +1,10 @@
 # vite-plugin-legacy-esbuild-issue
 
 ```bash
+% cp -R vite/packages/playground/vue ~/vite-plugin-legacy-esbuild-issue
+% cd ~/vite-plugin-legacy-esbuild-issue
+% pnpm add vite@latest @vitejs/plugin-legacy@latest
+% # update vite.config.js to include legacy plugin
 % pnpm i
 % pnpm build
 error during build:
